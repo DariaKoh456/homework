@@ -1,7 +1,5 @@
 
 
-def input(user_name):
-    print("Привет, " + user_name)
-
-input("Alex")
+user_name = input("Ваше имя: ")
+print ("Привет, " + user_name)
 
