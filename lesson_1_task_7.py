@@ -1,43 +1,42 @@
-def number_A():
-    print(1)
+def number_1():
+    print('1', end='')
 
-def number_B():
-    print(2)
+def number_2():
+    print('2', end='')
 
-def number_C():
-    print(3)
+def number_3():
+    print('3', end='')
 
-def number_D():
-    print(4)
+def number_4():
+    print('4', end='')
 
-def number_E():
-    print(5)
+def number_5():
+    print('5', end='')
 
-def number_F():
-    print(6) 
+def number_6():
+    print('6', end='') 
 
-def number_G():
-    print(7)
+def number_7():
+    print('7', end='')
 
-def number_H():
-    print(8)
+def number_8():
+    print('8', end='')
 
-def number_I():
-    print(9)
+def number_9():
+    print('9', end='')
 
-def number_J():
-    print(0)
+def number_0():
+    print('0', end='')
 
-number_H()
-number_H()
-number_J()
-number_J()
-number_E()
-number_E()
-number_E()
-number_C()
-number_E()
-number_C()
-number_E()
-
+number_8()
+number_8()
+number_0()
+number_0()
+number_5()
+number_5()
+number_5()
+number_3()
+number_5()
+number_3()
+number_5()
 
